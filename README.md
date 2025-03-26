@@ -14,7 +14,7 @@ To run these Java programs on your system:
 1️⃣ **Install Java**: Ensure you have Java installed. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).  
 2️⃣ **Clone the Repository**:  
    ```sh
-   git clone https://github.com/your-username/java-programs.git
+   git clone https://github.com/Paru-06/java-programs.git
    ```  
 3️⃣ **Compile & Run**: Navigate to the directory and run a program:  
    ```sh
